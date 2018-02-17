@@ -47,19 +47,19 @@
     "active":   true,
     "botName":  "PokeBot",
     "avatar":   "http://i.imgur.com/Su8yH00.png",
-    "webhook":  "https://discordapp.com/api/webhooks/"
+    "webhook":  "https://discordapp.com/api/webhooks/414540930042036225/RWZ5B_fAPmH1NazBeD7G6mX_2xujLZX4a7C3qp6EjXGCqwKjaAMDxqIYLA4XGiJc73BY"
   },
   "channel": {
     "ivList": [
       {
-        "name":     "__YOUR_HOMETOWN_NAME__",
+        "name":     "leeds",
         "active":   true,
-        "fileName": "ivList.__YOUR_HOMETOWN_NAME__.json",
+        "fileName": "ivList.leeds.json",
         "telegram": {
-          "__YOUR_HOMETOWN_NAME__": "__CHAT_ID__"
+          "leeds": "__CHAT_ID__"
         },
         "discord": {
-          "__YOUR_HOMETOWN_NAME__": "__WEBHOOK__"
+          "leeds": "__WEBHOOK__"
         }
       },
       {
@@ -90,10 +90,10 @@
         "name": "Raid",
         "active": true,
         "telegram": {
-          "__YOUR_HOMETOWN_NAME__": "__CHAT_ID__"
+          "leeds": "__CHAT_ID__"
         },
         "discord": {
-          "__YOUR_HOMETOWN_NAME__": "__WEBHOOK__"
+          "leeds": "https://discordapp.com/api/webhooks/414554727234404362/yiSnhEBo9jNp4zIe_fx74BONViQ5YJZYyxhLzy_NyDlA2sIdtSE8FvCWXa50DEcRmqfo"
         }
       }
     ],
@@ -107,10 +107,10 @@
         "active": false,
         "ids":    [201],
         "telegram": {
-          "__YOUR_HOMETOWN_NAME__": "__CHAT_ID__"
+          "leeds": "__CHAT_ID__"
         },
         "discord": {
-          "__YOUR_HOMETOWN_NAME__": "__WEBHOOK__"
+          "leeds": "https://discordapp.com/api/webhooks/414540930042036225/RWZ5B_fAPmH1NazBeD7G6mX_2xujLZX4a7C3qp6EjXGCqwKjaAMDxqIYLA4XGiJc73BY"
         }
       },
       {
