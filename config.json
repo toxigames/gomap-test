@@ -1,11 +1,11 @@
 {
   "map": {
     "url":        "https://gomap.eu",
-    "boundNorth": "__EDIT__",
-    "boundEast":  "__EDIT__",
-    "boundSouth": "__EDIT__",
-    "boundWest":  "__EDIT__",
-    "homeTown":   "__YOUR_HOMETOWN_NAME__",
+    "boundNorth": "53.850507",
+    "boundEast":  "-1.416447",
+    "boundSouth": "53.774803",
+    "boundWest":  "-1.510518",
+    "homeTown":   "leeds",
     "districts": [
       {
         "name":       "__YOUR_DISTRICT_NAME__",
